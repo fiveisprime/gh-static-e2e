@@ -11,6 +11,8 @@ const App = () => {
       setLoading(false);
     }
 
+    // comments
+    
     getProducts();
 
   }, [])
