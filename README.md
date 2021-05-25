@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Install the Azure Functions extension
+1. Install the Azure Functions extension.
 
 1. Run the following to install Azure Functions Core Tools
 
