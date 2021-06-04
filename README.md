@@ -1,4 +1,4 @@
-# GitHub Codespaces E2E Test Scenario: Static Web App
+# Static Web App
 
 ## Setup
 
