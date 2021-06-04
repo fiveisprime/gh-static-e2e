@@ -2,7 +2,7 @@
 
 Update readme!
 
-Update for a PR
+Update readme for PR
 
 ## Setup
 
