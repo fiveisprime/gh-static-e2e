@@ -1,5 +1,7 @@
 # Static Web App
 
+Update readme!
+
 ## Setup
 
 1. Install the Azure Functions extension.
