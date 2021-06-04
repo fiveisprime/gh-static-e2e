@@ -1,5 +1,7 @@
 # Static Web App
 
+Update remotely!
+
 ## Setup
 
 1. Install the Azure Functions extension.
