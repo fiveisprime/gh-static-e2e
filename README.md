@@ -1,13 +1,5 @@
 # Static Web App
 
-Update readme!
-
-Make a change.
-
-Update readme for PR
-
-Add another line
-
 ## Setup
 
 1. Install the Azure Functions extension.
