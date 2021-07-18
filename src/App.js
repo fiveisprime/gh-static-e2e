@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import axios from 'axios';
 
 const App = () => {
   const [products, setProducts] = useState([]);
@@ -7,12 +6,15 @@ const App = () => {
 
   useEffect(() => {
     async function getProducts() {
-      const response = await axios.get('api/products');
-      setProducts(response.data);
+      const response = await fetch('/GetProducts').then(res => res.json());
+      setProducts(response);
       setLoading(false);
     }
 
+    // comments
+    
     getProducts();
+
   }, [])
 
   return (
